@@ -1,4 +1,5 @@
 # Analyzing-Student-Grades-With-Jupyter
+Determining relationship between student performance (Grades) and amount of time students devote to studying (Study Hours)
 ![image](https://github.com/fehnnyabuto/Analyzing-Student-Grades-With-Jupyter/assets/70171779/bee87339-bd24-4480-ba73-81246df6048c)
 ![image](https://github.com/fehnnyabuto/Analyzing-Student-Grades-With-Jupyter/assets/70171779/d752ad42-855a-48c0-bf29-3d9c85ac44e1)
 ![image](https://github.com/fehnnyabuto/Analyzing-Student-Grades-With-Jupyter/assets/70171779/1170ae2e-cf1f-49e6-a01a-9a8458237b3a)
